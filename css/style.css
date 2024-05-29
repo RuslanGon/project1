@@ -46,9 +46,8 @@ ul {
     align-items: center;
     margin-top: 224px;
     text-align: center;
-gap: 90px;
-padding-bottom: 440px;
-
+    gap: 90px;
+    padding-bottom: 440px;
 }
 
 .main-text {
@@ -56,9 +55,88 @@ font-family: "Roboto", sans-serif;
 font-weight: 400;
 font-size: 68px;
 line-height: 0.9979;
-
 text-align: center;
 color: #fff;
+}
+
+/* making */
+
+.making {
+    display: flex;
+}
+
+.making-div {
+    margin-left: 84px;
 
 }
 
+.making-text {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 68px;
+line-height: 0.9979;
+text-transform: lowercase;
+color: #20201f;
+}
+
+.making-p {
+font-family: "Work Sans", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 1.74342;
+color: #20201f;
+width: 468px;
+height: 100px;
+margin-top: 52px;
+margin-bottom: 69px;
+}
+
+.making-link {
+border: 1px solid #20201f;
+border-radius: 42px;
+width: 155px;
+height: 50px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 0.99624;
+text-transform: lowercase;
+color: #20201f;
+padding: 15px 30px;
+}
+
+.making-link1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.19549;
+    text-transform: lowercase;
+    color: #20201f;
+    margin-left: 28px;
+    padding-bottom: 121px;
+}
+
+.making-div2 {
+    width: 600px;
+    height: 725px;
+    padding-left: 48px;
+    position: relative;
+}
+
+.making-img2 {
+    position: absolute;
+    left: 700px;
+    top: 414px;
+}
+
+.making-img3 {
+    position: absolute;
+    top: 318px;
+    left: 48px;
+}
+
+.making-img1 {
+    position: absolute;
+    right: 43px;
+    top: 35px;
+}
