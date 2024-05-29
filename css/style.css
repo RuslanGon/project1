@@ -269,3 +269,72 @@ color: #20201f;
     margin-top: 311px;
     margin-left: 310px;
 }
+
+/* find */
+
+.find-div {
+    display: flex;
+    margin-left: 84px;
+}
+
+.find-title {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 68px;
+line-height: 0.9979;
+text-transform: lowercase;
+color: #20201f;
+margin-top: 116px;
+}
+
+.find-text {
+    font-family: "Work Sans", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 1.74342;
+color: #20201f;
+margin-top: 51px;
+width: 414px;
+padding-right: 152px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.input {
+margin-top: 35px;
+border: 1px solid #8b8b8b;
+border-radius: 14px;
+width: 323px;
+height: 62px;
+}
+
+.form-btn {
+border: 1px solid #20201f;
+border-radius: 42px;
+width: 131px;
+height: 50px;
+margin-top: 37px;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 0.99624;
+text-transform: lowercase;
+text-align: center;
+color: #20201f;
+background-color: transparent;
+}
+
+.input::placeholder {
+    color: #8b8b8b; 
+    font-style: italic; 
+    padding-left: 23px;
+    font-size: 20px;
+}
+
+.input:focus {
+    outline: none; 
+    border: 1px solid #8b8b8b; 
+}
