@@ -19,7 +19,7 @@ ul {
     background-repeat: no-repeat;
     background-size: cover;
     box-sizing: border-box;
-    
+
 }
 
 .nav {
@@ -51,12 +51,12 @@ ul {
 }
 
 .main-text {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 68px;
-line-height: 0.9979;
-text-align: center;
-color: #fff;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 0.9979;
+    text-align: center;
+    color: #fff;
 }
 
 /* making */
@@ -72,38 +72,38 @@ color: #fff;
 }
 
 .making-text {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 68px;
-line-height: 0.9979;
-text-transform: lowercase;
-color: #20201f;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 0.9979;
+    text-transform: lowercase;
+    color: #20201f;
 }
 
 .making-p {
-font-family: "Work Sans", sans-serif;
-font-weight: 400;
-font-size: 19px;
-line-height: 1.74342;
-color: #20201f;
-width: 468px;
-height: 100px;
-margin-top: 52px;
-margin-bottom: 69px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.74342;
+    color: #20201f;
+    width: 468px;
+    height: 100px;
+    margin-top: 52px;
+    margin-bottom: 69px;
 }
 
 .making-link {
-border: 1px solid #20201f;
-border-radius: 42px;
-width: 155px;
-height: 50px;
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 19px;
-line-height: 0.99624;
-text-transform: lowercase;
-color: #20201f;
-padding: 15px 30px;
+    border: 1px solid #20201f;
+    border-radius: 42px;
+    width: 155px;
+    height: 50px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 0.99624;
+    text-transform: lowercase;
+    color: #20201f;
+    padding: 15px 30px;
 }
 
 .making-link1 {
@@ -141,24 +141,25 @@ padding: 15px 30px;
     right: 43px;
     top: 35px;
 }
+
 /* collections */
 
 .collections {
-    
+
 
     margin-top: -39px;
-    background-color:#e5e2de;
+    background-color: #e5e2de;
 }
 
 .collections-text {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 68px;
-line-height: 0.9979;
-text-transform: lowercase;
-color: #20201f;
-margin-left: 84px;
-padding-top: 98px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 68px;
+    line-height: 0.9979;
+    text-transform: lowercase;
+    color: #20201f;
+    margin-left: 84px;
+    padding-top: 98px;
 }
 
 .collections-list {
@@ -188,13 +189,39 @@ padding-top: 98px;
 }
 
 .collections-textt {
-font-family: "Roboto", sans-serif;
-font-weight: 400;
-font-size: 45px;
-line-height: 1.19048;
-text-transform: lowercase;
-color: #fff;
-position: absolute;
-top: 112px;
-left: 235px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 45px;
+    line-height: 1.19048;
+    text-transform: lowercase;
+    color: #fff;
+    position: absolute;
+    top: 112px;
+    left: 235px;
+}
+
+.collections-span {
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.2;
+    text-align: center;
+    color: #20201f;
+    position: absolute;
+    left: 47px;
+    top: 325px;
+}
+
+.collections-p {
+    margin-left: 84px;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.85156;
+    color: #20201f;
+    margin-top: 18px;
+}
+
+.img-right {
+    margin-left: 635px;
 }
