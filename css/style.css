@@ -140,3 +140,9 @@ padding: 15px 30px;
     right: 43px;
     top: 35px;
 }
+/* collections */
+
+.collections {
+    margin-top: -2px;
+    background-color:#e5e2de;
+}
