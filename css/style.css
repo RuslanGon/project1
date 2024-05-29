@@ -145,6 +145,36 @@ padding: 15px 30px;
 
 .collections {
     width: 100%;
-    margin-top: -2px;
+    margin-top: -39px;
     background-color:#e5e2de;
+}
+
+.collections-text {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 68px;
+line-height: 0.9979;
+text-transform: lowercase;
+color: #20201f;
+margin-left: 84px;
+padding-top: 98px;
+}
+
+.collections-list {
+    display: flex;
+    gap: 28px;
+    margin-left: 45px;
+}
+
+.collections-link {
+font-family: "Work Sans", sans-serif;
+font-weight: 400;
+font-size: 18px;
+line-height: 1.26191;
+text-transform: lowercase;
+color: #20201f;
+}
+
+.col-link {
+    margin-left: 84px;
 }
