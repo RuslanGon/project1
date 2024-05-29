@@ -144,7 +144,8 @@ padding: 15px 30px;
 /* collections */
 
 .collections {
-    width: 100%;
+    
+
     margin-top: -39px;
     background-color:#e5e2de;
 }
@@ -167,14 +168,33 @@ padding-top: 98px;
 }
 
 .collections-link {
-font-family: "Work Sans", sans-serif;
-font-weight: 400;
-font-size: 18px;
-line-height: 1.26191;
-text-transform: lowercase;
-color: #20201f;
+    font-family: "Work Sans", sans-serif;
+    font-weight: 400;
+    font-size: 19px;
+    line-height: 1.19549;
+    text-transform: lowercase;
+    color: #20201f;
 }
 
 .col-link {
     margin-left: 84px;
+    display: block;
+    margin-bottom: 94px;
+}
+
+.collections-div {
+    margin-left: 84px;
+    position: relative;
+}
+
+.collections-textt {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 45px;
+line-height: 1.19048;
+text-transform: lowercase;
+color: #fff;
+position: absolute;
+top: 112px;
+left: 235px;
 }
