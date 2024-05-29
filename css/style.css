@@ -325,6 +325,7 @@ text-transform: lowercase;
 text-align: center;
 color: #20201f;
 background-color: transparent;
+padding-left: 23px;
 }
 
 .input::placeholder {
