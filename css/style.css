@@ -145,8 +145,8 @@ ul {
 /* collections */
 
 .collections {
-
-
+    max-height: 1030px;
+    position: relative;
     margin-top: -39px;
     background-color: #e5e2de;
 }
@@ -223,5 +223,36 @@ ul {
 }
 
 .img-right {
+    display: block;
     margin-left: 635px;
+    margin-top: -35px;
+}
+
+.div-col {
+position: absolute;
+top: -700px;
+left: 750px;
+position: relative;
+}
+
+.col-span {
+position: absolute;
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 45px;
+line-height: 1.19048;
+text-transform: lowercase;
+text-align: center;
+color: #fff;
+left: 170px;
+bottom: 163px;
+}
+
+.col-p {
+font-family: "Work Sans", sans-serif;
+font-weight: 400;
+font-size: 16px;
+line-height: 1.85156;
+color: #20201f;
+margin-top: 18px;
 }
