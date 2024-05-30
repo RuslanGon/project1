@@ -652,6 +652,7 @@ color: #e5e2de;
 .footer-text {
     display: flex;
     margin-top: 24px;
+    gap: 100px;
 }
 
 .footer-text-list {
@@ -660,9 +661,15 @@ color: #e5e2de;
 }
 
 .footer-text-link {
-    font-family: "Work Sans", sans-serif;
+font-family: "Work Sans", sans-serif;
 font-weight: 400;
 font-size: 16px;
 line-height: 1.2;
 color: #e5e2de;
+}
+
+.social-div-list {
+    display: flex;
+    gap: 15px;
+    margin-left: -40px;
 }
