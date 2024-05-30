@@ -3,6 +3,7 @@ body {
     font-weight: 400;
     width: 100%;
     box-sizing: border-box;
+    width: 1200px;
 }
 
 a {
@@ -17,19 +18,17 @@ ul {
     width: 100%;
     background-image: url(../images/IMAGE.png);
     background-repeat: no-repeat;
-    background-size: cover;
     box-sizing: border-box;
-
 }
 
 .nav {
-    margin-left: 237px;
     padding-top: 45px;
 }
 
 .nav-list {
     display: flex;
     gap: 100px;
+    margin-left: 100px;
 }
 
 .nav-link {
@@ -62,8 +61,9 @@ ul {
 /* making */
 
 .making {
-    width: 100%;
+    width: 1200px;
     display: flex;
+    margin-top: -150px;
 }
 
 .making-div {
@@ -126,7 +126,7 @@ ul {
 
 .making-img2 {
     position: absolute;
-    left: 700px;
+    left: 480px;
     top: 414px;
 }
 
@@ -263,11 +263,12 @@ font-weight: 400;
 font-size: 22px;
 line-height: 1.21753;
 color: #20201f;
+
 }
 
 .div-span-number {
     margin-top: 311px;
-    margin-left: 310px;
+    margin-left: 250px;
 }
 
 /* find */
@@ -295,7 +296,7 @@ line-height: 1.74342;
 color: #20201f;
 margin-top: 51px;
 width: 414px;
-padding-right: 152px;
+padding-right: 102px;
 }
 
 .form {
@@ -575,4 +576,12 @@ margin-left: 20px;
 .star-img {
     margin-left: 50px;
     margin-bottom: 5px;
+}
+
+/* footer */
+
+.footer-div {
+    background-color: #20201f;
+    width: 1200px;
+height: 469px;
 }
