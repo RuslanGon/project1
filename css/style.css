@@ -442,3 +442,47 @@ height: 50px;
 padding: 15px 30px;
 margin-left: 533px;
 }
+
+/* dealer */
+
+.dealer-div {
+    display: flex;
+    background-color: #f7f7f7;
+}
+
+.dealer-text {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 68px;
+line-height: 0.9979;
+text-transform: lowercase;
+color: #20201f;
+margin-left: 84px;
+margin-top: 115px;
+}
+
+.dealer-p {
+font-family: "Work Sans", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 1.74342;
+color: #20201f;
+width: 429px;
+margin-left: 84px;
+margin-bottom: 62px;
+}
+
+.dealer-link {
+    font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 0.99624;
+text-transform: lowercase;
+color: #20201f;
+border: 1px solid #20201f;
+border-radius: 42px;
+width: 179px;
+height: 50px;
+padding: 15px 30px;
+margin-left: 84px;
+}
