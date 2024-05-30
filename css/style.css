@@ -601,7 +601,7 @@ display: flex;
 
 .footer-list {
     display: flex;
-    gap: 62px;
+    gap: 82px;
 }
 
 .footer-link {
@@ -631,10 +631,15 @@ color: #e5e2de;
 
 .footer2 {
     margin-top: 27px;
-    margin-left: 15px;
+    margin-left: 35px;
 }
 
 .footer3 {
     margin-top: 27px;
-    margin-left: -5px;
+    margin-left: 10px;
+}
+
+.footer4 {
+    margin-top: 27px;
+    margin-left: 20px;
 }
