@@ -391,5 +391,16 @@ padding: 15px 30px;
     position: absolute;
     top: 0px;
     left: 84px;
+}
 
+.img9 {
+    position: absolute;
+    top: 420px;
+    right: 348px;
+}
+
+.img10 {
+    position: absolute;
+    top: 84px;
+    right: 170px;
 }
