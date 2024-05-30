@@ -345,7 +345,7 @@ background-color: transparent;
 .terrace {
     height: 592px;
     background-color: #20201f;
-    margin-top: -24px;
+    margin-top: -64px;
     position: relative;
 }
 
@@ -356,13 +356,16 @@ font-size: 68px;
 line-height: 0.9979;
 text-transform: lowercase;
 color: #e5e2de;
-text-align: center;
+margin-left: 503px;
 padding-top: 116px;
 }
 
 .text {
 margin-top: -120px;
 margin-bottom: 191px;
+z-index: 2;
+position: absolute;
+margin-left: 220px;
 }
 
 .terrace-link {
@@ -377,6 +380,16 @@ border-radius: 42px;
 width: 179px;
 height: 50px;
 padding: 15px 30px;
-margin-left: 680px;
-margin-bottom: 200px;
+}
+
+.terrace-btn {
+    margin-top: 236px;
+    margin-left: 503px;
+}
+
+.img8 {
+    position: absolute;
+    top: 0px;
+    left: 84px;
+
 }
