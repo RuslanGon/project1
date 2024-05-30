@@ -384,7 +384,7 @@ padding: 15px 30px;
 
 .terrace-btn {
     margin-top: 236px;
-    margin-left: 503px;
+    margin-left: 533px;
 }
 
 .img8 {
@@ -403,4 +403,42 @@ padding: 15px 30px;
     position: absolute;
     top: 84px;
     right: 170px;
+}
+
+/* about */
+
+.about-div {
+    background-color: #fff;
+    margin-top: -20px;
+    height: 592px;
+}
+
+.about-title {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 49px;
+    line-height: 1.1735;
+    text-transform: lowercase;
+    text-align: center;
+    color: #20201f;
+padding-top: 112px;
+width: 415px;
+margin-left: 411px;
+margin-bottom: 70px;
+}
+
+.about-link {
+font-family: "Roboto", sans-serif;
+font-weight: 400;
+font-size: 19px;
+line-height: 0.99624;
+text-transform: lowercase;
+text-align: center;
+color: #20201f;
+border: 1px solid #20201f;
+border-radius: 42px;
+width: 155px;
+height: 50px;
+padding: 15px 30px;
+margin-left: 533px;
 }
